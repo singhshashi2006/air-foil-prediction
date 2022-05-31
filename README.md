@@ -1,2 +1,1 @@
-# air-foil-prediction
-air-foil-prediction
+# Airfoil-Regression-With-Deployment
